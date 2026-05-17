@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vespa Review"
+  short_description: "Multi-agent PR review with parent-side false-positive filtering"
+  default_prompt: "Use $vespa-review to review this PR. Split the diff into focused chapters, dispatch a sub-agent per chapter in parallel, filter false positives, and give me one consolidated feedback report."
