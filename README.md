@@ -16,13 +16,13 @@ headers.
 After pushing this repository to GitHub, install it with:
 
 ```bash
-npx skills add <owner>/vespa-review
+npx skills add gdorsi/vespa-review
 ```
 
 Or by URL:
 
 ```bash
-npx skills add https://github.com/<owner>/vespa-review
+npx skills add https://github.com/gdorsi/vespa-review
 ```
 
 ## Contents
